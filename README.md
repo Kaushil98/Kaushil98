@@ -1,6 +1,4 @@
-# 🏄‍♂️ Welcome to my Profile
-
-<h1 align="center">Hey there, I'm Kaushil Gaud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+# 🏄‍♂️ Welcome to my Profile, I'm Kaushil Gaud
 
 **`Digital Craftsman (Developer/Creator)`**
 
