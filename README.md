@@ -6,7 +6,7 @@ A new learner in data, I'm committed to building a strong foundation of knowledg
 
 <p align="center">
   <br>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+  <img src="https://media4.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47wjnsbbien128y8hxcmhlrxmo3wheninhm395igoz&rid=giphy.gif&ct=g" />
   <br>
 </p>
 
