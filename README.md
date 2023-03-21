@@ -15,13 +15,13 @@ A new learner in data, I'm committed to building a strong foundation of knowledg
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt = "Python" width="60" height="60"/>&nbsp;  
+<img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" title="Python" alt = "Python" width="50" height="50"/>&nbsp;  
 <img src="https://github.com/sempostma/office365-icons/blob/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/png/1024/excel.png" title="Ms Excel" alt = "Ms Excel" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="Mysql" alt = "Mysql" width="60" height="60"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" title="Mysql" alt = "Mysql" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt = "Jupyter" width="50" height="50"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt = "Mongodb" width="60" height="60"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" title="Azure" alt = "Azure" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" title="Flask" alt = "Flask" width="60" height="60"/>&nbsp; 
+<img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" title="Mongodb" alt = "Mongodb" width="50" height="50"/>&nbsp; 
+<img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Azure-Dark.svg" title="Azure" alt = "Azure" width="50" height="50"/>&nbsp; 
+<img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" title="Flask" alt = "Flask" width="50" height="50"/>&nbsp; 
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg" title="PowerBI" alt = "PowerBI" width="40" height="40"/>&nbsp;  
   
   
