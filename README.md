@@ -29,12 +29,14 @@ A new learner in data, I'm committed to building a strong foundation of knowledg
 </p>
 
 ---
-<details>
+
  <summary><h3>👨‍💻 Kaushil's Gaud Journey</h3></summary>
  I started my journey in the world of data as a curious learner, eager to understand how data works and how it can be used to make informed decisions. As I delved deeper, I realized my passion for the field and my desire to excel in it. I've been teaching myself about various data technologies and tools, constantly pushing myself to learn more and explore new areas. However, there's something that has always bothered me - the thought of settling for the safe route and not pursuing my dream of building something of my own. I want to challenge myself to get out of my comfort zone and turn my passion for data into a tangible product. So, I'm putting measures in place to streamline my learning and focus more time on building my own data project. By the end of 2023, I hope to have fulfilled my dream of creating something that will help people make better decisions with data. Stay tuned, because I'm just getting started.
 ---
   
 </p>
+
+---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushil99&theme=vision-friendly-dark)](https://git.io/streak-stats)
@@ -42,3 +44,29 @@ A new learner in data, I'm committed to building a strong foundation of knowledg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIRKD9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+</p>
+
+
+### 🛠 &nbsp;Currently Working on:
+
+Here's a quick update on what I'm currently working on and learning:
+
+**Currently Working**
+
+- Working on Python and JavaScript projects, including a Django/React web application and a data analysis project using Pandas and NumPy.
+
+**Currently Learning**
+
+- Learning about machine learning and artificial intelligence, with a focus on deep learning and neural networks using Python and TensorFlow.
+- Studying cloud computing and DevOps tools such as Docker, Kubernetes, and AWS.
+
+
+
+
+**Contact Me**
+If you have any questions or want to collaborate on a project, feel free to reach out to me.
+You can find my contact information on my GitHub profile. Thank you for visiting!
+
+
+
+
