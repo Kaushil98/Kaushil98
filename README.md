@@ -27,6 +27,8 @@ Join me on this thrilling exploration where mechanical innovation meets the anal
 <img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Azure-Dark.svg" title="Azure" alt = "Azure" width="50" height="50"/>&nbsp; 
 <img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" title="Flask" alt = "Flask" width="50" height="50"/>&nbsp; 
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg" title="PowerBI" alt = "PowerBI" width="40" height="40"/>&nbsp;  
+
+</p>
   
 
 ### 🛠 &nbsp;Currently Working on:
