@@ -28,27 +28,6 @@ Join me on this thrilling exploration where mechanical innovation meets the anal
 <img src="https://github.com/tandpfun/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flask-Dark.svg" title="Flask" alt = "Flask" width="50" height="50"/>&nbsp; 
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/f1d4dd6cd52338a186f58bc29c437f64cf6b327b/SVG/Power-BI.svg" title="PowerBI" alt = "PowerBI" width="40" height="40"/>&nbsp;  
   
-  
-  
-</p>
-
----
- <summary><h3>👨‍💻 Kaushil's Gaud Journey</h3></summary>
- I started my journey in the world of data as a curious learner, eager to understand how data works and how it can be used to make informed decisions. As I delved deeper, I realized my passion for the field and my desire to excel in it. I've been teaching myself about various data technologies and tools, constantly pushing myself to learn more and explore new areas. However, there's something that has always bothered me - the thought of settling for the safe route and not pursuing my dream of building something of my own. I want to challenge myself to get out of my comfort zone and turn my passion for data into a tangible product. So, I'm putting measures in place to streamline my learning and focus more time on building my own data project. By the end of 2023, I hope to have fulfilled my dream of creating something that will help people make better decisions with data. Stay tuned, because I'm just getting started.
----
-  
-</p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamkd99&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkd99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-</p>
-
 
 ### 🛠 &nbsp;Currently Working on:
 
