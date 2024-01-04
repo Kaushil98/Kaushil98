@@ -37,15 +37,12 @@ Here's a quick update on what I'm currently working on and learning:
 
 **Currently Working**
 
-- Working on Python and JavaScript projects, including a Django/React web application and a data analysis project using Pandas and NumPy.
+- Working on Simulink projects,that simulate complex systems, optimizing their performance and functionality with MATLAB, with its versatility, complements this by enabling robust data analysis and visualization.
 
 **Currently Learning**
 
-- Learning about machine learning and artificial intelligence, with a focus on deep learning and neural networks using Python and TensorFlow.
-- Studying cloud computing and DevOps tools such as Docker, Kubernetes, and AWS.
-
-
-
+-  The integration of Python into MATLAB workflows is a key aspect of my current learning journey, as it enhances the scope and impact of engineering solutions.
+-  Simulink and Architect Enterprise for SysML modeling
 
 **Contact Me**
 If you have any questions or want to collaborate on a project, feel free to reach out to me.
