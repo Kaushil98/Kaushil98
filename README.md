@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Designer/Creator)`**
 
-Hello! I'm [Your Name], an enthusiastic learner dedicated to building a strong foundation in data science and analysis, with a particular focus on its application in mechanical engineering. My passion lies in the convergence of mechanical design and data-driven insights to solve real-world challenges. Committed to staying abreast of the latest methodologies, I am actively pursuing continuous professional development.
+Hello! I'm Kaushil, an enthusiastic learner dedicated to building a strong foundation in Simulations and analysis, with a particular focus on its application in automobile engineering. My passion lies in the convergence of Automobile design and data-driven insights to solve real-world challenges. Committed to staying abreast of the latest methodologies, I am actively pursuing continuous professional development.
 
-Embarking on this journey involves hands-on exploration, where I employ Python for data analysis, MATLAB for simulations, and SolidWorks for intricate mechanical modeling projects. Through Python, I dissect mechanical data for meaningful insights, utilizing the power of Pandas, NumPy, and Matplotlib. MATLAB becomes my tool of choice for simulations, allowing me to model and analyze mechanical systems efficiently. SolidWorks, on the other hand, is harnessed for data visualization, bringing complex mechanical data to life in a visually compelling manner.
+Embarking on this journey involves hands-on exploration, where I employ Python for data analysis, MATLAB for simulations, and SolidWorks/CAD for intricate mechanical modeling projects. Through Python, I dissect mechanical data for meaningful insights, utilizing the power of Pandas, NumPy, and Matplotlib. MATLAB becomes my tool of choice for simulations, allowing me to model and analyze mechanical systems efficiently. SolidWorks, on the other hand, is harnessed for data visualization, bringing complex mechanical data to life in a visually compelling manner.
 
 Join me on this thrilling exploration where mechanical innovation meets the analytical power of data. I'm open to collaborations and discussions—reach out via email, LinkedIn, or Twitter. 
 
